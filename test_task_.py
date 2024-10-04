@@ -1,4 +1,39 @@
+import openpyxl
+from openpyxl import Workbook
 import re
+from matching import join_authors_affs
+
+# creating output excel file
+wb = Workbook()
+ws = wb.active
+abstractUrl = ''
+role0 = 'Abstract author'
+email = ''
+session_description = ''
+
+# creating table headers
+table_title = [
+    'Name (incl. titles)', 
+    'Affiliation/Organisation and location', 
+    'Role', 
+    'Email', 
+    'Session Name', 
+    'Session Description', 
+    'Presentation Title', 
+    'Presentation Abstract', 
+    'Abstract URL', 
+    'Video URL',
+    ]
+ws.append(table_title)
+
+def check_aff_list(number, affList):
+    """ Function check if index of the last element equal to the lenght of the aff list"""
+    for count, value in enumerate(affList, start=1):
+        index1 = len(str(count))
+        index2 = value[:(index1)]
+        if str(count) != index2:
+            print(f"{number}--{count}--{index2}--{value}")
+            print('---------------check last aff list value --------------------')
 
 file = open('/Users/oleh.perehuda/Documents/03 SCRAPY/projects/scrapers_class/pdf_processing/monocl_class/ab_raw.txt', 'r', encoding="UTF-8")
 
@@ -44,7 +79,10 @@ for poster in posters[1:]:
         title_and_authors = header[1:3]
         title = header[1]
         authors = header[2].split(",")
-        affiliations = header[-1]        
+        affiliations = header[-1]
+        for ind_author in authors:
+            ws.append([ind_author, affiliations, role0, email, "", "", title, "".join(poster_text),"","",])
+            
     else:        
         for item in header:
             if re.match(r"^1(?=[A-Z]*[a-z]*)", item):
@@ -53,20 +91,26 @@ for poster in posters[1:]:
                 affiliations_raw.append(item)
             else:
                 title_and_authors.append(item)
-                
-        affiliations = re.split(r",(?=\d)", "".join(affiliations_raw))
+        
+        affiliations_0 = " ".join(affiliations_raw)        
+        affiliations = re.split(r"\,\s(?=\d)", affiliations_0)
+        check_aff_list(header[0], affiliations)
         title = []
-        authors = []
+        raw_authors = []
         authors_flag = False
         for character in title_and_authors:
             if not character.isupper():
                 authors_flag = True
             if authors_flag:
-                authors.append(character)
+                raw_authors.append(character)
             else:
                 title.append(character)
 
-        check_empty_lists(header[0], title, authors)
+        check_empty_lists(header[0], title, raw_authors)
+        
+        authors = re.split(r"(?<=\d),", "".join(raw_authors))
+        
     
     
 file.close()
+wb.save('TEST_00.xlsx')

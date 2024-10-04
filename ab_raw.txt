@@ -2110,7 +2110,7 @@ Lubrano8
 1Geneva Univ. Hospitals and Univ. of Geneva, Geneva, Switzerland, 2Univ.
 Hospital Motol, Prague, Czech Republic, 3Uludağ Univ. Sch. of Med.,
 Gorukle, Bursa, Turkey, 4ABC Med. Sch., Santo André, Brazil, 5St. Luke’s
-International Hospital, Tokyo, Japan, 6AbbVie, Ljubljana, Slovenia, 6AbbVie
+International Hospital, Tokyo, Japan, 6AbbVie, Ljubljana, Slovenia, 7AbbVie
 AG, Baar, Switzerland, 8Univ. of Molise, Campobasso, Italy
 Introduction: Evidence suggests that timely and effective management
 can improve long-term outcomes in patients (pts) with
@@ -2827,9 +2827,7 @@ Conclusion: ADA treatment of nail Ps across 52 weeks demonstrated
 short- and long-term efficacy. No new safety signals were
 identified in these pts receiving ≥1 dose of ADA.
 P056
-EIGHT-YEAR INTERIM RESULTS FROM THE ESPRIT
-10-YEAR POSTMARKETING SURVEILLANCE
-REGISTRY OF ADALIMUMAB FOR MODERATE TO
+EIGHT-YEAR INTERIM RESULTS FROM THE ESPRIT 10-YEAR POSTMARKETING SURVEILLANCE REGISTRY OF ADALIMUMAB FOR MODERATE TO
 SEVERE PSORIASIS
 Jashin J. Wu1, William Abramovits2, Francisco Kerdel3, Dilek Arika4,
 Dianlin Guo4, Hartmut Kupper5, Vera Kuehnl5, Rakesh Singh4,
@@ -4816,8 +4814,8 @@ PSORIATIC PATIENT WITH SEVERE DRUG REACTION
 TO INFLIXIMAB. A CASE REPORT
 Maria Politou1, Maria Pompou1, Dimitrios Rigopoulos1, Nikolaos
 Fekkas2, Anastasios Giannoukos1
-11st Department of Dermatology-Venereology "Andreas Syggros" Hospital,
-UOA, 2Department of Dermatology-venereology, 401 Military Hospital,
+1First Department of Dermatology-Venereology "Andreas Syggros" Hospital,
+UOA, 2Department of Dermatology-venereology,401 Military Hospital,
 Greece
 Introduction: Biosimilar medicines are drugs which are highly
 similar to other biological medicines already licensed and that do
@@ -5170,9 +5168,7 @@ with the type-1 IFN pathway of psoriasis pathogenesis. This
 immune-phenotypic analysis may suggest tailored therapy for
 this form of psoriasis.
 P104
-SERUM GLUCOCORTICOID-INDUCIBLE KINASE-
-1(SGK1) LEVELS IN PATIENTS WITH PSORIATIC
-ARTHRITIS
+SERUM GLUCOCORTICOID-INDUCIBLE KINASE-1(SGK1) LEVELS IN PATIENTS WITH PSORIATIC ARTHRITIS
 Goksal Keskin1, Ali Inal2, Esra Dilek Keskin3, Umit Olmez1
 1Department of Immunology, Medical School of Ankara University, 2Department
 of Immunology, Medical School of Baskent University, 3Department
@@ -5402,9 +5398,7 @@ based survey. Br J Dermatol. 2013;169(2):314–319.
 M. Nail involvement as a predictor of concomitant psoriatic arthritis in
 patients with psoriasis. Br J Dermatol. 2014;171(5):1123–1128.
 P109
-ABSOLUTE AND RELATIVE PASI IMPROVEMENTS
-WITH IXEKIZUMAB TREATMENT: RESULTS AT WEEK
-12 FROM IXORA-P
+ABSOLUTE AND RELATIVE PASI IMPROVEMENTS WITH IXEKIZUMAB TREATMENT: RESULTS AT WEEK 12 FROM IXORA-P
 Kim Papp1, Remus Ioan Orasan2, Paula Polzer3, Carsten Hennege3,
 Radu Dumitru Nica3, Stefan Wilhelm3, Ulrich Mrowietz4
 1Probity Medical Research, Waterloo, Ontario, Canada, 2Human Physiology,
@@ -5767,7 +5761,7 @@ Kristian Reich1, Petr Arenberger2, Ulrich Mrowietz3, Sasha Jazayeri4, Matthias
 Augustin5, Anne Parneix-Spake6, Pascaline Regnault7, Ruquan You8,
 Jennifer Frueh7
 1Dermatologikum Berlin and SCIderm Research Institute, Hamburg, Germany,
-2Department of Dermatology, Charles University, 3rd Faculty of
+2Department of Dermatology, Charles University, third Faculty of
 Medicine, Prague, Czech Republic, 3Psoriasis Center at the Department
 of Dermatology, University Medical Center Schleswig-Holstein, Kiel, Germany,
 4Alliance Dermatology and MOHS Center, Phoenix, USA, 5Universität
