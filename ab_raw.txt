@@ -3,7 +3,7 @@ A METAGENOMICS STUDY OF THE ELBOW OF PSORIASIS
 SUBJECTS AND THEIR HEALTHY RELATIVES
 Hailun Wang1, Michael Ni1, Japio Fung1, Kang Yan1, Xiaoxin Yao1,
 Yinpeng Wang1, Martin Kriegel2, Henry Chan1, Herbert Pang1
-1The University of Hong Kong, and 2Yale University
+1The University of Hong Kong, 2Yale University
 Introduction: Psoriasis is a multifaceted immune-mediated skin
 disease and has been associated with other comorbidities. Previous
 studies in psoriasis reported the abundance of microbial taxa above
@@ -143,10 +143,8 @@ MULTICENTER STUDY
 Omid Zargari1, Seyyede Zeinab Azimi2, Tara Barat1, Vahideh Lajevardi3,
 Ehsan Kazemnejad4, Mohamad Shahidi Dadras1
 1Department of Dermatology, Skin Research Center, Shahid Beheshti University
-of Medical Sciences, Tehran, 2Department of Dermatology and 4Department
-of Biostatistics, Guilan University of Medical Sciences, Rasht,
-and 3Department of Dermatology, Tehran University of Medical Sciences,
-Tehran, Iran
+of Medical Sciences, Tehran, 2Department of Dermatology, 3Department of Dermatology, Tehran University of Medical Sciences,
+Tehran, Iran, 4Department of Biostatistics, Guilan University of Medical Sciences, Rasht,
 Introduction: Psoriasis is a common chronic inflammatory skin
 disease, which is gradually being recognized as a systemic inflammatory
 disorder. Psoriasis and obesity are strongly linked, but
@@ -1956,7 +1954,7 @@ Potempa2
 1Charité - University Medicine Berlin, Berlin, Germany, 2University of Calgary,
 Calgary, AB, Canada, 3Medical College of Wisconsin, Milwaukee,
 WI, USA, 4Oregon Health & Science University and Legacy Devers Eye
-Institute, Portland, OR, USA,5AbbVie Inc., North Chicago, IL, USA
+Institute, Portland, OR, USA, 5AbbVie Inc., North Chicago, IL, USA
 Introduction: Adalimumab is an anti–tumor necrosis factor-α
 (TNF-α) agent indicated for the treatment of immune-mediated
 diseases. The long-term safety of adalimumab was previously
@@ -4056,7 +4054,7 @@ Tilde Elkjær Tind Nielsen2,3, Christoffer Blegvad3, Lone Skov3
 1Department of Dermatology and Allergy, Herlev and Gentofte Hospital,
 University of Copenhagen, Hellerup, Denmark, 2Section for Epidemiology,
 Department of Public Health, University of Copenhagen, Copenhagen,
-Department of Dermatology and Allergy, Herlev and Gentofte Hospital,
+3Department of Dermatology and Allergy, Herlev and Gentofte Hospital,
 University of Copenhagen, Hellerup, Denmark
 Introduction: Psoriatic comorbidities have been shown to be
 inversely associated with socioeconomic position (SEP). We hypothesized
@@ -5116,9 +5114,9 @@ PSORIASIS
 Touraj Khosravi-Hafshejani1, Mehran Ghoreishi2, Cristian Vera
 Kellet3, Magdalena Martinka4, Jan Dutz1
 1Department of Undergraduate Medical Program, Faculty of Medicine,
-2Department of Dermatology, and Skin Science and 4Department of Pathology
-and Laboratory Medicine, University of British Columbia, 3Department
-of Dermatology, Pontifical Catholic University of Chile
+2Department of Dermatology, and Skin Science , 3Department
+of Dermatology, Pontifical Catholic University of Chile, 4Department of Pathology
+and Laboratory Medicine, University of British Columbia
 Introduction: Small plaque psoriasis (SPP) is a subtype of psoriasis
 first described by Griffiths et al (2007). It resembles guttate
 psoriasis but lesions are larger, are chronic, and are not associated
@@ -6886,10 +6884,9 @@ EXPLORATORY ANALYSIS OF THE PHASE IIIB,
 PSORITUS STUDY
 Sonja Ständer1, Sabine Steinke1, Matthias Augustin2, Dieter Metze1,
 Karin Loser1, Daniel Baeumer3, Thomas Luger4
-1Department of Dermatology and Competence Center Chronic Pruritus
-and 4Department of Dermatology, University hospital Münster, Münster,
+1Department of Dermatology and Competence Center Chronic Pruritus,
 2Institute for Health Services Research in Dermatology and Nursing, Hamburg,
-and 3Novartis Pharma, Nuernberg, Germany
+and 3Novartis Pharma, Nuernberg, Germany, 4Department of Dermatology, University hospital Münster, Münster
 Introduction: Chronic pruritus lasts for at least 6 weeks and is a
 most common symptom in patients with psoriasis. Pruritus is a
 highly prevalent and troublesome symptom and has a negative

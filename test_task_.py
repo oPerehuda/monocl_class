@@ -2,6 +2,7 @@ import openpyxl
 from openpyxl import Workbook
 import re
 from matching import join_authors_affs
+import time
 
 # creating output excel file
 wb = Workbook()
@@ -81,7 +82,7 @@ for poster in posters[1:]:
         authors = header[2].split(",")
         affiliations = header[-1]
         for ind_author in authors:
-            ws.append([ind_author, affiliations, role0, email, "", "", title, "".join(poster_text),"","",])
+            ws.append([ind_author, affiliations, role0, email, "", header[0], title, "".join(poster_text),"","",])
             
     else:        
         for item in header:
@@ -92,7 +93,7 @@ for poster in posters[1:]:
             else:
                 title_and_authors.append(item)
         
-        affiliations_0 = " ".join(affiliations_raw)        
+        affiliations_0 = " ".join(affiliations_raw).replace(" and ", " ")        
         affiliations = re.split(r"\,\s(?=\d)", affiliations_0)
         check_aff_list(header[0], affiliations)
         title = []
@@ -110,7 +111,9 @@ for poster in posters[1:]:
         
         authors = re.split(r"(?<=\d),", "".join(raw_authors))
         
-    
-    
+        matching_results = join_authors_affs(authors, affiliations, header[0])
+        for matching_result in matching_results:
+            ws.append([matching_result[0], matching_result[1], role0, email, "", header[0], " ".join(title[1:]), " ".join(poster_text), abstractUrl, ""])
+            
 file.close()
-wb.save('TEST_00.xlsx')
+wb.save('TEST_01.xlsx')
