@@ -109,7 +109,7 @@ for poster in posters[1:]:
 
         check_empty_lists(header[0], title, raw_authors)
         
-        authors = re.split(r"(?<=\d),", "".join(raw_authors))
+        authors = re.split(r"(?<=\d),\s", " ".join(raw_authors))
         
         matching_results = join_authors_affs(authors, affiliations, header[0])
         for matching_result in matching_results:
@@ -117,3 +117,4 @@ for poster in posters[1:]:
             
 file.close()
 wb.save('TEST_01.xlsx')
+

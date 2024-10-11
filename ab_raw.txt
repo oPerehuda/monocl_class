@@ -4090,7 +4090,8 @@ Future studies are warranted to clarify the role of mediating factors.
 P079
 OBESITY AND THE RISK OF PSORIASIS: A KOREAN NATIONWIDE, POPULATION-BASED STUDY
 Ju Hee Han1, Kyung Do Han2, Chul Hwan Bang1, Young Min Park1, Jun Young Lee1, Yong Gyu Park2, Ji Hyun Lee1
-Department of Dermatology, Seoul St. Mary’s Hospital, College of Medicine, The Catholic University of Korea, Department of Biostatistics, College of Medicine, The Catholic University of Korea, Seoul, Korea
+1Department of Dermatology, Seoul St. Mary’s Hospital, College of Medicine, The Catholic University of Korea, Seoul, Korea, 
+2Department of Biostatistics, College of Medicine, The Catholic University of Korea, Seoul, Korea
 Introduction: Psoriasis is a T-helper-1 and -17 cell-mediated,
 chronic, inflammatory skin disease affecting approximately 1–3%
 of the general population. Psoriasis is currently considered as a
@@ -5062,7 +5063,8 @@ in clinically healed psoriasis. J Immunol. 2014 Apr 1;192(7):3111-20.
 P101
 INVESTIGATING SYSTEMIC INFLAMMATION AS THE COMMON LINK BETWEEN DEPRESSION, PSORIASIS, AND PSORIATIC ARTHRITIS IN US VETERANS
 Samar Gupta1, Alicja Wasilewski2
-University of Michigan1, MI State2
+1University of Michigan, 
+2MI State
 Introduction: Psychosocial factors are important in the onset and/
 or exacerbation of psoriasis in 40% to 80% of cases. Psoriasis
 has been associated with suicide, and an increased prevalence of
